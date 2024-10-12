@@ -1,5 +1,3 @@
-/* Carrd Site JS | carrd.co | License: MIT */
-
 (function() {
 
 	// Main.
