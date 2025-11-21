@@ -1,7 +1,7 @@
 # UM6P Open Data Portal
 
 <p align="center">
-  <img src="assets/images/share.jpg" alt="UM6P Open Data Portal" width="30%">
+  <img src="assets/images/share.jpg" alt="UM6P Open Data Portal" width="40%">
 </p>
 
 This repository contains the static website for the **UM6P Open Data Portal (UODP)**, a lightweight front page for UM6P’s open data initiative. It highlights flagship datasets, explains the vision behind the portal, and links users to the Dataverse instance and contribution channels.
